@@ -2,7 +2,7 @@ Package: zed-editor
 Version: 0.209.6
 Architecture: amd64
 Maintainer: Sinful Bobcat <bobcatsinful@gmail.com>
-Filename: ./zed-editor.deb
+Filename: ./zed-editor-0.209.6.deb
 Size: 99936662
 MD5sum: ce85727a4690bc9ebc4b76e8b0d0f52f
 SHA1: 1aad36b32019daabfc3f7e7be8fd6bc164394d64
