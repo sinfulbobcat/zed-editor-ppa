@@ -1,6 +1,8 @@
 # ZED EDITOR PPA
 This is an unofficial ppa hosted on github pages for Ubuntu/Debian and their derivatives.
 
+> [Link to this repository](https://github.com/sinfulbobcat/zed-editor-ppa/)
+
 > [!IMPORTANT]
 > This is a unofficial repo, not maintained by the authors of the software.
 
