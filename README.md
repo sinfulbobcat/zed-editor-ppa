@@ -1,0 +1,1 @@
+my zed editor package
