@@ -1,1 +1,1 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/zed-editor-ppa.gpg] https://sinfulbobcat.github.io/zed-editor-ppa ./
+deb https://sinfulbobcat.github.io/zed-editor-ppa ./
