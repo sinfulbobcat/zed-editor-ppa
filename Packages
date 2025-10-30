@@ -24,3 +24,16 @@ Section: text
 Priority: optional
 Description: A text editor
 
+Package: zed-editor
+Version: 0.210.4
+Architecture: amd64
+Maintainer: Sinful Bobcat <bobcatsinful@gmail.com>
+Filename: ./zed-editor-0.210.4.deb
+Size: 99668414
+MD5sum: 55a0cacbe9aa16bf67af3f0257053534
+SHA1: f8e9d1253860b608a1b5d82cec6ae69fa8c47632
+SHA256: e9ca49a94d323e61f8888106ace41462de7f373fd018940730a2a2b5c1877fb1
+Section: text
+Priority: optional
+Description: A text editor
+
